@@ -1,6 +1,6 @@
 # Sources of the UPC-Road project
 
-<p align="center"><img width=95% src="https://github.com/anfederico/clairvoyant/blob/master/media/Schematic.png"></p>
+<p align="center"><img width=95% src="[https://drive.google.com/file/d/1s83k-V230yntqyrHKz_z90DhXriK049o/view?usp=drive_link]"></p>
 
 ### Dataset sensors
 ---
